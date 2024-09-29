@@ -13,7 +13,9 @@ This project focuses on identifying fraudulent transactions in bank payments usi
 ## Requirements
 
 - Python  
-- pandas  
+- Pandas
+- Numpy  
 - scikit-learn  
 - matplotlib  
-- seaborn  
+- seaborn
+- streamlit
