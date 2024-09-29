@@ -1,1 +1,1 @@
-# Fraud-Detection-on-Bank-Payments-Major
+# Fraud Detection on Bank Payments
